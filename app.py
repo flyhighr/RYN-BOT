@@ -30,4 +30,4 @@ bot = Bot(intents=intents)
 
 
 
-bot.run('MTE5MjA1OTg5MTg4MDMxMjg4Mw.GP0H4Q.Vky7w9jP5W9IembJZnk0nPy0n44xeeWxhEUIHo')
+bot.run('') #YOUR Bot TOKEN
